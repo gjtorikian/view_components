@@ -1,5 +1,21 @@
 # CHANGELOG
 
+## 0.31.0
+
+### Minor Changes
+
+- [#2984](https://github.com/primer/view_components/pull/2984) [`c56f325`](https://github.com/primer/view_components/commit/c56f3254128999ed69cdaeefb5a48cd08636fca0) Thanks [@camertron](https://github.com/camertron)! - Add ability to attach a test selector to ActionList items
+
+### Patch Changes
+
+- [#2979](https://github.com/primer/view_components/pull/2979) [`ae6e3d7`](https://github.com/primer/view_components/commit/ae6e3d73d5bc70492a151845e4d35c48f5510fa5) Thanks [@langermank](https://github.com/langermank)! - Prep for high contrast theme updates
+
+- [#2986](https://github.com/primer/view_components/pull/2986) [`4d8ec0c`](https://github.com/primer/view_components/commit/4d8ec0c67c748d07ff3c2b69d6bdaff408461d8e) Thanks [@kendallgassner](https://github.com/kendallgassner)! - Fixes Alpha::SelectPanel remote loading bug where items from the server were overriding the users selections. Additionally, update the #removeSelectedItem function to grab the data-value from the correct element.
+
+- [#2987](https://github.com/primer/view_components/pull/2987) [`82f0267`](https://github.com/primer/view_components/commit/82f026711246f6f5409e79e4cffb74cc5145b39c) Thanks [@kendallgassner](https://github.com/kendallgassner)! - Ensure focus is set on SelectPanel item when arrowing down from input
+
+- [#2985](https://github.com/primer/view_components/pull/2985) [`868b49e`](https://github.com/primer/view_components/commit/868b49ee1e8d82066be91a6ffe97d948c1d7dc43) Thanks [@jamieshark](https://github.com/jamieshark)! - Adds custom config for DetailsMenuMigration linter.
+
 ## 0.30.0
 
 ### Minor Changes
